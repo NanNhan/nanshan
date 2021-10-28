@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+	//if语句
+//{
+	/*int num=4;
+	if(num=5)
+	{
+	  printf("呵呵\n");
+	}
